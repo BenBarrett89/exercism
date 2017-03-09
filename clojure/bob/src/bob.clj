@@ -22,14 +22,10 @@
 )
 
 (defn response-for [talk]
-  (if (silence talk)
-    "Fine. Be that way!"
-    (if (shouting talk)
-      "Whoa, chill out!"
-      (if (question talk)
-        "Sure."
-        "Whatever."
-      )
-    )
+  (cond
+    (silence talk) "Fine. Be that way!"
+    (shouting talk) "Whoa, chill out!"
+    (question talk) "Sure."
+    :else   "Whatever."
   )
 )
