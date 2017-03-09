@@ -1,5 +1,18 @@
-(ns rna-transcription)
+(ns rna-transcription
+  (:require [clojure.string :as str]))
 
-(defn to-rna [] ;; <- arglist goes here
-  ;; your code goes here
+(def dnaToRnaMap (hash-map
+  "G" "C"
+  "C" "G"
+  "T" "A"
+  "A" "U"
+))
+
+(defn mapDnaToRna [dna-nucleotide]
+  (assert (contains? dnaToRnaMap dna-nucleotide))
+  (get dnaToRnaMap dna-nucleotide)
+)
+
+(defn to-rna [dna-strand]
+  (str/join (for [dna-nucleotide (str/split dna-strand #"")] (mapDnaToRna dna-nucleotide)))
 )
