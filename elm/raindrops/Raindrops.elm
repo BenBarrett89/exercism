@@ -1,27 +1,26 @@
 module Raindrops exposing (..)
 
-import Dict exposing (fromList, get, member)
-import List exposing (filter, map, range)
+import Dict
 import Maybe exposing (withDefault)
-import String exposing (isEmpty, join)
+import String exposing (isEmpty)
 
-raindropSounds = fromList [ (3, "Pling"), (5, "Plang"), (7, "Plong") ]
+raindropSounds = Dict.fromList [ (3, "Pling"), (5, "Plang"), (7, "Plong") ]
 
 raindrops: Int -> String
 raindrops number =
   let
     sound: String
     sound =
-      join "" (map getRaindropSound (getFactors number))
+      String.concat (List.map getRaindropSound (getFactors number))
   in if isEmpty sound then toString number else sound
 
 getRaindropSound: Int -> String
 getRaindropSound number =
-  withDefault "" (get number raindropSounds)
+  withDefault "" (Dict.get number raindropSounds)
 
 getFactors: Int -> List Int
 getFactors number =
-  filter (\n -> isFactor n number) (range 1 number)
+  List.filter (\n -> isFactor n number) (Dict.keys raindropSounds)
 
 isFactor: Int -> Int -> Bool
 isFactor candidate number =
