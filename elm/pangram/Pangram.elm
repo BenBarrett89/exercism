@@ -14,16 +14,12 @@ uniqueCharacters sentence =
   sentence
     |> toLower
     |> removeNonalphabetical
-    |> splitToCharacters
+    |> String.toList
     |> removeDuplicates
     |> length
 
-splitToCharacters: String -> List String
-splitToCharacters word =
-  split "" word
-
-removeDuplicates: List String -> List String
+removeDuplicates: List comparable -> List comparable
 removeDuplicates list =
-  (toList (fromList list))
+  (Set.toList (Set.fromList list))
 
 removeNonalphabetical = replace Regex.All (regex "[^a-z+]") (\_ -> "")
