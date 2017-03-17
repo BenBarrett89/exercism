@@ -20,8 +20,8 @@ getRaindropSound number =
 
 getFactors: Int -> List Int
 getFactors number =
-  List.filter (\n -> isFactor n number) (Dict.keys raindropSounds)
+  List.filter (isFactor number) (Dict.keys raindropSounds)
 
 isFactor: Int -> Int -> Bool
-isFactor candidate number =
+isFactor number candidate =
   rem number candidate == 0
