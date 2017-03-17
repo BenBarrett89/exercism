@@ -1,6 +1,15 @@
-public class PangramChecker {
+import java.util.Arrays;
+import java.util.HashSet;
 
-    public boolean isPangram(String input) {
-        throw new UnsupportedOperationException("Method has not been implemented yet.");
+class PangramChecker {
+    private static final String NON_ALPHABETIC = "[^a-z]+";
+
+    boolean isPangram(String sentence) {
+        HashSet<String> letters = getLetters(sentence);
+        return letters.size() == 26;
+    }
+
+    private static HashSet<String> getLetters(String sentence) {
+        return new HashSet<>(Arrays.asList(sentence.toLowerCase().replaceAll(NON_ALPHABETIC, "").split("")));
     }
 }
