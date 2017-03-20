@@ -24,7 +24,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * [Pangram](java/pangram/src/main/java/PangramChecker.java) ([Exercism](http://exercism.io/exercises/1b1ab0294c224720b1a60346ad6085bf))
 * [Hamming](java/hamming/src/main/java/Hamming.java) ([Exercism](http://exercism.io/exercises/93470d47782a4b20a0d13b1d57326dac))
 * [Gigasecond](java/gigasecond/src/main/java/Gigasecond.java) ([Exercism](http://exercism.io/exercises/e04df0e5236a436d948ee61defab9f50))
-* [Space Age](java/gigasecond/src/main/java/SpaceAge.java) ([Exercism]())
+* [Space Age](java/gigasecond/src/main/java/SpaceAge.java) ([Exercism](http://exercism.io/submissions/797ce0ed2d4e4a3f8bc8245f4f201cdb))
 
 ### <img src="http://exercism.io/tracks/javascript/icon" alt="Clojure" width="25" height="25"> JavaScript
 * [Hello World](javascript/hello-world/hello-world.js) ([Exercism](http://exercism.io/exercises/de474fb30de443e6a9d202aea8c94e1c))
