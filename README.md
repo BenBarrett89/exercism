@@ -10,7 +10,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * [Anagram](clojure/anagram/src/anagram.clj) ([Exercism](http://exercism.io/exercises/27ac515367854e1288ce89478a953fa6))
 * [Beer Song](clojure/beer-song/src/beer_song.clj) ([Exercism](http://exercism.io/exercises/dd13bd4ce5c2441081707a16cab9a50a))
 
-### <img src="http://exercism.io/tracks/elm/icon" alt="Clojure" width="25" height="25"> Elm
+### <img src="http://exercism.io/tracks/elm/icon" alt="Elm" width="25" height="25"> Elm
 * [Hello World](elm/hello-world/HelloWorld.elm) ([Exercism](http://exercism.io/exercises/3b16987ed0534b03806bab79a63852ad))
 * [Bob](elm/bob/Bob.elm) ([Exercism](http://exercism.io/exercises/c466ee95a2884161930a76e4af22336d))
 * [Leap](elm/leap/Leap.elm) ([Exercism](http://exercism.io/exercises/71bb2c4e44d04e1caacf0314393b89ff))
@@ -18,7 +18,10 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * [Pangram](elm/pangram/Pangram.elm) ([Exercism](http://exercism.io/exercises/31665d4a97244735b15cfda757c634a0))
 * [Accumulate](elm/accumulate/Accumulate.elm) ([Exercism](http://exercism.io/exercises/8298f3c8727c468cafc75a64caa0e08d))
 
-### <img src="http://exercism.io/tracks/java/icon" alt="Clojure" width="25" height="25"> Java
+### <img src="http://exercism.io/tracks/go/icon" alt="Go" width="25" height="25"> Go
+* [Hello World](go/hello_world.go) ([Exercism](http://exercism.io/submissions/6601b86e324748d0bd92beb9ff864e52))
+
+### <img src="http://exercism.io/tracks/java/icon" alt="Java" width="25" height="25"> Java
 * [Hello World](java/hello-world/src/main/java/HelloWorld.java) ([Exercism](http://exercism.io/exercises/79f7f96b14c54c77bf30865227d6cdcc))
 * [Rna Transcription](java/rna-transcription/src/main/java/RnaTranscription.java) ([Exercism](http://exercism.io/exercises/f4d4e13412b546fb9cdcf74dccee1525))
 * [Pangram](java/pangram/src/main/java/PangramChecker.java) ([Exercism](http://exercism.io/exercises/1b1ab0294c224720b1a60346ad6085bf))
@@ -26,7 +29,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * [Gigasecond](java/gigasecond/src/main/java/Gigasecond.java) ([Exercism](http://exercism.io/exercises/e04df0e5236a436d948ee61defab9f50))
 * [Space Age](java/gigasecond/src/main/java/SpaceAge.java) ([Exercism](http://exercism.io/submissions/797ce0ed2d4e4a3f8bc8245f4f201cdb))
 
-### <img src="http://exercism.io/tracks/javascript/icon" alt="Clojure" width="25" height="25"> JavaScript
+### <img src="http://exercism.io/tracks/javascript/icon" alt="JavaScript" width="25" height="25"> JavaScript
 * [Hello World](javascript/hello-world/hello-world.js) ([Exercism](http://exercism.io/exercises/de474fb30de443e6a9d202aea8c94e1c))
 * [Leap](javascript/leap/leap.js) ([Exercism](http://exercism.io/exercises/4332c588afd344eaa8dabc08be4fd680))
 * [Hamming](javascript/hamming/hamming.js) ([Exercism](http://exercism.io/exercises/4a3712a13679495799a5b996ead037a2))
@@ -34,7 +37,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * [Pangram](javascript/pangram/pangram.js) ([Exercism](http://exercism.io/exercises/40b460ef15854b21a9196fa54da093ec))
 * [Bob](javascript/bob/bob.js) ([Exercism](http://exercism.io/exercises/9ef2cfebeea247018c5bdaa2b48d69d7))
 
-### <img src="http://exercism.io/tracks/python/icon" alt="Clojure" width="25" height="25"> Python
+### <img src="http://exercism.io/tracks/python/icon" alt="Python" width="25" height="25"> Python
 * [Hello World](python/hello-world/hello_world.py) ([Exercism](http://exercism.io/exercises/c57b211450fd4cfc995a6eac88e6457f))
 * [Leap](python/leap/leap.py) ([Exercism](http://exercism.io/exercises/8b825ac53c3748f8955f4c857487250e))
 * [Clock](python/clock/clock.py) ([Exercism](http://exercism.io/exercises/08602384a12a4e67bf9a323eb4fc1b3c))
@@ -50,7 +53,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * Clock - [Python](python/clock/clock.py)
 * Gigasecond - [Java](java/gigasecond/src/main/java/Gigasecond.java)
 * Hamming - [Java](java/hamming/src/main/java/Hamming.java), [JavaScript](javascript/hamming/hamming.js), [Python](python/hamming/hamming.py)
-* Hello World - [Clojure](clojure/hello-world/src/hello_world.clj), [Elm](elm/hello-world/HelloWorld.elm), [Java](java/hello-world/src/main/java/HelloWorld.java), [JavaScript](javascript/hello-world/hello-world.js), [Python](python/hello-world/hello_world.py)
+* Hello World - [Clojure](clojure/hello-world/src/hello_world.clj), [Elm](elm/hello-world/HelloWorld.elm), [Go](go/hello_world.go), [Java](java/hello-world/src/main/java/HelloWorld.java), [JavaScript](javascript/hello-world/hello-world.js), [Python](python/hello-world/hello_world.py)
 * Leap - [Elm](elm/leap/Leap.elm), [JavaScript](javascript/leap/leap.js), [Python](python/leap/leap.py)
 * Pangram - [Elm](elm/pangram/Pangram.elm), [Java](java/pangram/src/main/java/PangramChecker.java), [JavaScript](javascript/pangram/pangram.js), [Python](python/pangram/pangram.py)
 * Raindrops - [Elm](elm/raindrops/Raindrops.elm)
