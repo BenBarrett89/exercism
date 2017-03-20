@@ -2,7 +2,7 @@
 Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 
 ## My Solutions by Language Track
-### Clojure
+### <img src="http://exercism.io/tracks/clojure/icon" alt="Clojure" width="25" height="25"> Clojure
 * [Hello World](clojure/hello-world/src/hello_world.clj) ([Exercism](http://exercism.io/exercises/cbe604c4c8df412199c841b99ebb8f57))
 * [Bob](clojure/bob/src/bob.clj) ([Exercism](http://exercism.io/exercises/95763522a7444d5eb85e44a7b8024d47))
 * [Rna Transcription](clojure/rna-transcription/src/rna_transcription.clj) ([Exercism](http://exercism.io/exercises/9e5b7cda40a64706b3955010656e9fd5))
@@ -10,7 +10,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * [Anagram](clojure/anagram/src/anagram.clj) ([Exercism](http://exercism.io/exercises/27ac515367854e1288ce89478a953fa6))
 * [Beer Song](clojure/beer-song/src/beer_song.clj) ([Exercism](http://exercism.io/exercises/dd13bd4ce5c2441081707a16cab9a50a))
 
-### Elm
+### <img src="http://exercism.io/tracks/elm/icon" alt="Clojure" width="25" height="25"> Elm
 * [Hello World](elm/hello-world/HelloWorld.elm) ([Exercism](http://exercism.io/exercises/3b16987ed0534b03806bab79a63852ad))
 * [Bob](elm/bob/Bob.elm) ([Exercism](http://exercism.io/exercises/c466ee95a2884161930a76e4af22336d))
 * [Leap](elm/leap/Leap.elm) ([Exercism](http://exercism.io/exercises/71bb2c4e44d04e1caacf0314393b89ff))
@@ -18,14 +18,14 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * [Pangram](elm/pangram/Pangram.elm) ([Exercism](http://exercism.io/exercises/31665d4a97244735b15cfda757c634a0))
 * [Accumulate](elm/accumulate/Accumulate.elm) ([Exercism](http://exercism.io/exercises/8298f3c8727c468cafc75a64caa0e08d))
 
-### Java
+### <img src="http://exercism.io/tracks/java/icon" alt="Clojure" width="25" height="25"> Java
 * [Hello World](java/hello-world/src/main/java/HelloWorld.java) ([Exercism](http://exercism.io/exercises/79f7f96b14c54c77bf30865227d6cdcc))
 * [Rna Transcription](java/rna-transcription/src/main/java/RnaTranscription.java) ([Exercism](http://exercism.io/exercises/f4d4e13412b546fb9cdcf74dccee1525))
 * [Pangram](java/pangram/src/main/java/PangramChecker.java) ([Exercism](http://exercism.io/exercises/1b1ab0294c224720b1a60346ad6085bf))
 * [Hamming](java/hamming/src/main/java/Hamming.java) ([Exercism](http://exercism.io/exercises/93470d47782a4b20a0d13b1d57326dac))
 * [Gigasecond](java/gigasecond/src/main/java/Gigasecond.java) ([Exercism](http://exercism.io/exercises/e04df0e5236a436d948ee61defab9f50))
 
-### JavaScript
+### <img src="http://exercism.io/tracks/javascript/icon" alt="Clojure" width="25" height="25"> JavaScript
 * [Hello World](javascript/hello-world/hello-world.js) ([Exercism](http://exercism.io/exercises/de474fb30de443e6a9d202aea8c94e1c))
 * [Leap](javascript/leap/leap.js) ([Exercism](http://exercism.io/exercises/4332c588afd344eaa8dabc08be4fd680))
 * [Hamming](javascript/hamming/hamming.js) ([Exercism](http://exercism.io/exercises/4a3712a13679495799a5b996ead037a2))
@@ -33,7 +33,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * [Pangram](javascript/pangram/pangram.js) ([Exercism](http://exercism.io/exercises/40b460ef15854b21a9196fa54da093ec))
 * [Bob](javascript/bob/bob.js) ([Exercism](http://exercism.io/exercises/9ef2cfebeea247018c5bdaa2b48d69d7))
 
-### Python
+### <img src="http://exercism.io/tracks/python/icon" alt="Clojure" width="25" height="25"> Python
 * [Hello World](python/hello-world/hello_world.py) ([Exercism](http://exercism.io/exercises/c57b211450fd4cfc995a6eac88e6457f))
 * [Leap](python/leap/leap.py) ([Exercism](http://exercism.io/exercises/8b825ac53c3748f8955f4c857487250e))
 * [Clock](python/clock/clock.py) ([Exercism](http://exercism.io/exercises/08602384a12a4e67bf9a323eb4fc1b3c))
