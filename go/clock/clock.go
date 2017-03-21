@@ -8,7 +8,8 @@ const minutesInDay = 1440
 
 // Clock type
 type Clock struct {
-	Minutes int
+	hour    int
+	minutes int
 }
 
 // New function creates a new clock
@@ -17,25 +18,15 @@ func New(hour, minute int) Clock {
 	if minutes < 0 {
 		minutes += minutesInDay
 	}
-	return Clock{minutes}
+	return Clock{minutes / 60, minutes % 60}
 }
 
 // String function returns the string representation of the Clock
 func (clock Clock) String() string {
-	return fmt.Sprintf("%02d:%02d", clock.hour(), clock.minutes())
+	return fmt.Sprintf("%02d:%02d", clock.hour, clock.minutes)
 }
 
 // Add function adds the given number of minutes to the clock's minutes
 func (clock Clock) Add(minutes int) Clock {
-	return New(clock.hour(), clock.minutes()+minutes)
-}
-
-// hour function returns the clock hour
-func (clock Clock) hour() int {
-	return clock.Minutes / 60
-}
-
-// minutes function returns the clock minutes
-func (clock Clock) minutes() int {
-	return clock.Minutes % 60
+	return New(clock.hour, clock.minutes+minutes)
 }
