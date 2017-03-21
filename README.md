@@ -21,6 +21,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 ### <img src="http://exercism.io/tracks/go/icon" alt="Go" width="25" height="25"> Go
 * [Hello World](go/hello-world/hello_world.go) ([Exercism](http://exercism.io/submissions/6601b86e324748d0bd92beb9ff864e52))
 * [Leap](go/leap/leap.go) ([Exercism](http://exercism.io/submissions/d2c9306d9e4d4cf1b1731878715aece0))
+* [Clock](go/clock/clock.go) ([Exercism](http://exercism.io/submissions/cb7a82417a7a47e2b09907b80ec55ba7))
 
 ### <img src="http://exercism.io/tracks/java/icon" alt="Java" width="25" height="25"> Java
 * [Hello World](java/hello-world/src/main/java/HelloWorld.java) ([Exercism](http://exercism.io/exercises/79f7f96b14c54c77bf30865227d6cdcc))
@@ -51,7 +52,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * Anagram - [Clojure](clojure/anagram/src/anagram.clj)
 * Beer Song - [Clojure](clojure/beer-song/src/beer_song.clj)
 * Bob - [Clojure](clojure/bob/src/bob.clj), [Elm](elm/bob/Bob.elm), [JavaScript](javascript/bob/bob.js)
-* Clock - [Python](python/clock/clock.py)
+* Clock - [Go](go/clock/clock.go), [Python](python/clock/clock.py)
 * Gigasecond - [Java](java/gigasecond/src/main/java/Gigasecond.java)
 * Hamming - [Java](java/hamming/src/main/java/Hamming.java), [JavaScript](javascript/hamming/hamming.js), [Python](python/hamming/hamming.py)
 * Hello World - [Clojure](clojure/hello-world/src/hello_world.clj), [Elm](elm/hello-world/HelloWorld.elm), [Go](go/hello-world/hello_world.go), [Java](java/hello-world/src/main/java/HelloWorld.java), [JavaScript](javascript/hello-world/hello-world.js), [Python](python/hello-world/hello_world.py)
