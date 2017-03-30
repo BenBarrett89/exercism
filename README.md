@@ -1,5 +1,8 @@
-# exercism
+# exercism 
 Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
+
+> My current challenge to myself is to complete 6 problems in 6 languages.
+> I have prior experience with three of the languages; __Java__, __JavaScript__ and __Python__. I have chosen to try three other languages; __Clojure__, __Elm__ and __Go__.
 
 ## My Solutions by Language Track
 ### <img src="http://exercism.io/tracks/clojure/icon" alt="Clojure" width="25" height="25"> Clojure
@@ -31,7 +34,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * [Pangram](java/pangram/src/main/java/PangramChecker.java) ([Exercism](http://exercism.io/exercises/1b1ab0294c224720b1a60346ad6085bf))
 * [Hamming](java/hamming/src/main/java/Hamming.java) ([Exercism](http://exercism.io/exercises/93470d47782a4b20a0d13b1d57326dac))
 * [Gigasecond](java/gigasecond/src/main/java/Gigasecond.java) ([Exercism](http://exercism.io/exercises/e04df0e5236a436d948ee61defab9f50))
-* [Space Age](java/gigasecond/src/main/java/SpaceAge.java) ([Exercism](http://exercism.io/submissions/797ce0ed2d4e4a3f8bc8245f4f201cdb))
+* [Space Age](java/space-age/src/main/java/SpaceAge.java) ([Exercism](http://exercism.io/submissions/797ce0ed2d4e4a3f8bc8245f4f201cdb))
 
 ### <img src="http://exercism.io/tracks/javascript/icon" alt="JavaScript" width="25" height="25"> JavaScript
 * [Hello World](javascript/hello-world/hello-world.js) ([Exercism](http://exercism.io/exercises/de474fb30de443e6a9d202aea8c94e1c))
@@ -56,7 +59,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * Bob - [Clojure](clojure/bob/src/bob.clj), [Elm](elm/bob/Bob.elm), [JavaScript](javascript/bob/bob.js)
 * Clock - [Go](go/clock/clock.go), [Python](python/clock/clock.py)
 * Gigasecond - [Go](go/gigasecond/gigasecond.go), [Java](java/gigasecond/src/main/java/Gigasecond.java)
-* Hamming - * [Go](go/hamming/hamming.go), [Java](java/hamming/src/main/java/Hamming.java), [JavaScript](javascript/hamming/hamming.js), [Python](python/hamming/hamming.py)
+* Hamming - [Go](go/hamming/hamming.go), [Java](java/hamming/src/main/java/Hamming.java), [JavaScript](javascript/hamming/hamming.js), [Python](python/hamming/hamming.py)
 * Hello World - [Clojure](clojure/hello-world/src/hello_world.clj), [Elm](elm/hello-world/HelloWorld.elm), [Go](go/hello-world/hello_world.go), [Java](java/hello-world/src/main/java/HelloWorld.java), [JavaScript](javascript/hello-world/hello-world.js), [Python](python/hello-world/hello_world.py)
 * Leap - [Elm](elm/leap/Leap.elm), [Go](go/leap/leap.go), [JavaScript](javascript/leap/leap.js), [Python](python/leap/leap.py)
 * Pangram - [Elm](elm/pangram/Pangram.elm), [Java](java/pangram/src/main/java/PangramChecker.java), [JavaScript](javascript/pangram/pangram.js), [Python](python/pangram/pangram.py)
