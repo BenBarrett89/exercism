@@ -1,8 +1,12 @@
 # exercism 
 Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 
-> My current challenge to myself is to complete 6 problems in 6 languages.
-> I have prior experience with three of the languages; __Java__, __JavaScript__ and __Python__. I have chosen to try three other languages; __Clojure__, __Elm__ and __Go__.
+## Personal Challenges
+### Current Challenges
+:construction: TBA
+
+### Completed Challenges
+:beginner: Complete 6 problems in 6 languages (Clojure, Elm, Go, Java, JavaScript and Python)
 
 ## My Solutions by Language Track
 ### <img src="http://exercism.io/tracks/clojure/icon" alt="Clojure" width="25" height="25"> Clojure
