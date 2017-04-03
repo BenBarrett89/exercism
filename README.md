@@ -7,8 +7,8 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 ### Outstanding Challenges
 * :boat: _Sail the Four Cs_ Complete 4 problems in the 4 C languages (C, C#, C++, Objective-C)
 * :construction_worker: _Assemblers Assemble!_ Complete 5 problems in MIPS Assembly
-* :sheep: _In two shakes of a Lambda tail_ Complete 2 problems in functional languages with lambda logos (Clojure, Haskell, Racket, Scheme)
-* :scroll: _Who wrote this script?!_ Complete 5 problems in the 5 'script' languages (CoffeeScript, ECMAScript, JavaScript, PureScript, TypeScript)
+* :sheep: _In two shakes of a Lambda tail_ Complete 2 problems in functional languages with lambda logos (~Clojure~ :white_check_mark:, Haskell, Racket, Scheme)
+* :scroll: _Who wrote this script?!_ Complete 5 problems in the 5 'script' languages (CoffeeScript, ECMAScript, ~JavaScript~ :white_check_mark:, PureScript, TypeScript)
 
 ### Completed Challenges
 * :beginner: _Hello World!_ Complete 6 problems in 6 languages (Clojure, Elm, Go, Java, JavaScript and Python)
