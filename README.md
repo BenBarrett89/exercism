@@ -10,6 +10,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :keycap_ten: _Ben 10_ Complete 10 problems in any language
 * :coffee: _Caffeine Addict_ Complete 5 problems in caffeine-esque languages (Ceylon, CoffeeScript, Java, JavaScript,  Lisp Flavored Erlang)
 * :surfer: _Hawaii 5-0_ Complete 50 problems
+* :100: _The Hundred_ Complete 100 problems
 * :sheep: _In two shakes of a Lambda tail_ Complete 2 problems in functional languages with lambda logos (~Clojure~ :white_check_mark:, Haskell, Lisp Flavored Erlang, Racket, Scheme)
 * :boat: _Sail the Four Cs_ Complete 4 problems in the 4 C languages (C, C#, C++, Objective-C)
 * :scroll: _Who wrote this script?!_ Complete 5 problems in the 5 'script' languages (CoffeeScript, ECMAScript, ~JavaScript~ :white_check_mark:, PureScript, TypeScript)
