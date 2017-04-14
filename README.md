@@ -7,7 +7,6 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 ### Outstanding Challenges
 * :construction_worker: _Assemblers Assemble!_ Complete 5 problems in MIPS Assembly
 * :full_moon: _Bark at the Moon_ Complete 5 problems in Lua
-* :keycap_ten: _Ben 10_ Complete 10 problems in any language
 * :coffee: _Caffeine Addict_ Complete 5 problems in caffeine-esque languages (Ceylon, CoffeeScript, Java, JavaScript,  Lisp Flavored Erlang)
 * :surfer: _Hawaii 5-0_ Complete 50 problems
 * :100: _The Hundred_ Complete 100 problems
@@ -17,6 +16,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 
 ### Completed Challenges
 * :beginner: _Hello World!_ Complete 6 problems in 6 languages (Clojure, Elm, Go, Java, JavaScript and Python)
+* :keycap_ten: _Ben 10_ Complete 10 problems in any language (Python)
 
 ## My Solutions by Language Track
 ### <img src="http://exercism.io/tracks/clojure/icon" alt="Clojure" width="25" height="25"> Clojure
@@ -69,12 +69,13 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :abc: [Isogram](python/isogram/isogram.py) ([Exercism](http://exercism.io/submissions/9d5042212e464001aff320d80b058be4))
 * :notebook_with_decorative_cover: [Word Count](python/word-count/word_count.py) ([Exercism](http://exercism.io/submissions/3ab8cc77ecb148ab9152e8bd8a8473a8))
 * :rocket: [Gigasecond](python/gigasecond/gigasecond.py) ([Exercism](http://exercism.io/submissions/131d657f699641fcaa3e1ec2c948882a))
+* :neckbeard: [Bob](python/bob/bob.py) ([Exercism](http://exercism.io/submissions/2d53ed77583f4210bc8848c6c630386f))
 
 ## My Solutions by Problem
 * :computer: Accumulate - [Elm](elm/accumulate/Accumulate.elm)
 * :newspaper: Anagram - [Clojure](clojure/anagram/src/anagram.clj)
 * :beers: Beer Song - [Clojure](clojure/beer-song/src/beer_song.clj)
-* :neckbeard: Bob - [Clojure](clojure/bob/src/bob.clj), [Elm](elm/bob/Bob.elm), [JavaScript](javascript/bob/bob.js)
+* :neckbeard: Bob - [Clojure](clojure/bob/src/bob.clj), [Elm](elm/bob/Bob.elm), [JavaScript](javascript/bob/bob.js), [Python](python/bob/bob.py)
 * :clock1030: Clock - [Go](go/clock/clock.go), [Python](python/clock/clock.py)
 * :rocket: Gigasecond - [Go](go/gigasecond/gigasecond.go), [Java](java/gigasecond/src/main/java/Gigasecond.java), [Python](python/gigasecond/gigasecond.py)
 * :bicyclist: Hamming - [Go](go/hamming/hamming.go), [Java](java/hamming/src/main/java/Hamming.java), [JavaScript](javascript/hamming/hamming.js), [Python](python/hamming/hamming.py)
