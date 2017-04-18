@@ -61,6 +61,9 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :rocket: [Gigasecond](javascript/gigasecond/gigasecond.js) ([Exercism](http://exercism.io/submissions/67d7cf19efa242cf93dcb22a4a2f6ec0))
 * :abc: [Isogram](javascript/isogram/isogram.js) ([Exercism](http://exercism.io/submissions/de855b72be5b4958ad1306e9f0eb0332))
 
+### <img src="http://exercism.io/tracks/lua/icon" alt="Python" width="25" height="25"> Lua
+* :wave: [Hello World](lua/hello-world/hello-world.lua) ([Exercism](http://exercism.io/submissions/2f333b07dcc2458b92986030379c4746))
+
 ### <img src="http://exercism.io/tracks/python/icon" alt="Python" width="25" height="25"> Python
 * :wave: [Hello World](python/hello-world/hello_world.py) ([Exercism](http://exercism.io/exercises/c57b211450fd4cfc995a6eac88e6457f))
 * :calendar: [Leap](python/leap/leap.py) ([Exercism](http://exercism.io/exercises/8b825ac53c3748f8955f4c857487250e))
@@ -81,7 +84,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :clock1030: Clock - [Go](go/clock/clock.go), [Python](python/clock/clock.py)
 * :rocket: Gigasecond - [Go](go/gigasecond/gigasecond.go), [Java](java/gigasecond/src/main/java/Gigasecond.java), [JavaScript](javascript/gigasecond/gigasecond.js), [Python](python/gigasecond/gigasecond.py)
 * :bicyclist: Hamming - [Go](go/hamming/hamming.go), [Java](java/hamming/src/main/java/Hamming.java), [JavaScript](javascript/hamming/hamming.js), [Python](python/hamming/hamming.py)
-* :wave: Hello World - [Clojure](clojure/hello-world/src/hello_world.clj), [Elm](elm/hello-world/HelloWorld.elm), [Go](go/hello-world/hello_world.go), [Java](java/hello-world/src/main/java/HelloWorld.java), [JavaScript](javascript/hello-world/hello-world.js), [Python](python/hello-world/hello_world.py)
+* :wave: Hello World - [Clojure](clojure/hello-world/src/hello_world.clj), [Elm](elm/hello-world/HelloWorld.elm), [Go](go/hello-world/hello_world.go), [Java](java/hello-world/src/main/java/HelloWorld.java), [JavaScript](javascript/hello-world/hello-world.js), [Lua](lua/hello-world/hello-world.lua), [Python](python/hello-world/hello_world.py)
 * :abc: Isogram - [JavaScript](javascript/isogram/isogram.js), [Python](python/isogram/isogram.py)
 * :calendar: Leap - [Elm](elm/leap/Leap.elm), [Go](go/leap/leap.go), [JavaScript](javascript/leap/leap.js), [Python](python/leap/leap.py)
 * :notebook: Pangram - [Elm](elm/pangram/Pangram.elm), [Java](java/pangram/src/main/java/PangramChecker.java), [JavaScript](javascript/pangram/pangram.js), [Python](python/pangram/pangram.py)
