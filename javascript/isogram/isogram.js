@@ -1,12 +1,6 @@
-module.exports = function (word) {
-  var letters = {}
-
-  const isogram = word.toLowerCase().match(/[^\s-]/g).find(letter => {
-    var duplicate = false
-    if (letters[letter]) duplicate = true
-    else letters[letter] = true
-    return duplicate
-  }) === undefined
+module.exports = function (candidate) {
+  const word = candidate.toLowerCase().replace(/[\s-]/g, '').split('')
+  const isogram = word.length === new Set(word).size
 
   this.isIsogram = () => {
     return isogram

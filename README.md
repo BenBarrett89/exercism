@@ -59,7 +59,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :notebook: [Pangram](javascript/pangram/pangram.js) ([Exercism](http://exercism.io/exercises/40b460ef15854b21a9196fa54da093ec))
 * :neckbeard: [Bob](javascript/bob/bob.js) ([Exercism](http://exercism.io/exercises/9ef2cfebeea247018c5bdaa2b48d69d7))
 * :rocket: [Gigasecond](javascript/gigasecond/gigasecond.js) ([Exercism](http://exercism.io/submissions/67d7cf19efa242cf93dcb22a4a2f6ec0))
-* :abc: [Isogram](javascript/isogram/isogram.js) ([Exercism](http://exercism.io/submissions/7c879d21d51042b79de310b49d15d032))
+* :abc: [Isogram](javascript/isogram/isogram.js) ([Exercism](http://exercism.io/submissions/de855b72be5b4958ad1306e9f0eb0332))
 
 ### <img src="http://exercism.io/tracks/python/icon" alt="Python" width="25" height="25"> Python
 * :wave: [Hello World](python/hello-world/hello_world.py) ([Exercism](http://exercism.io/exercises/c57b211450fd4cfc995a6eac88e6457f))
