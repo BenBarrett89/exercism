@@ -7,7 +7,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 ### Outstanding Challenges
 * :construction_worker: _Assemblers Assemble!_ Complete 5 problems in MIPS Assembly
 * :full_moon: _Bark at the Moon_ Complete 5 problems in Lua
-* :coffee: _Caffeine Addict_ Complete 5 problems in caffeine-esque languages (Ceylon, CoffeeScript, Java, JavaScript,  Lisp Flavored Erlang)
+* :coffee: _Caffeine Addict_ Complete 5 problems in caffeine-esque languages (Ceylon, CoffeeScript, ~Java~:white_check_mark:, ~JavaScript~:white_check_mark:,  Lisp Flavored Erlang)
 * :surfer: _Hawaii 5-0_ Complete 50 problems
 * :100: _The Hundred_ Complete 100 problems
 * :sheep: _In two shakes of a Lambda tail_ Complete 2 problems in functional languages with lambda logos (~Clojure~ :white_check_mark:, Haskell, Lisp Flavored Erlang, Racket, Scheme)
