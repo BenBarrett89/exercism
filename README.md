@@ -63,6 +63,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 
 ### <img src="http://exercism.io/tracks/lua/icon" alt="Python" width="25" height="25"> Lua
 * :wave: [Hello World](lua/hello-world/hello-world.lua) ([Exercism](http://exercism.io/submissions/2f333b07dcc2458b92986030379c4746))
+* :bicyclist: [Hamming](lua/hamming/hamming.lua) ([Exercism]())
 
 ### <img src="http://exercism.io/tracks/python/icon" alt="Python" width="25" height="25"> Python
 * :wave: [Hello World](python/hello-world/hello_world.py) ([Exercism](http://exercism.io/exercises/c57b211450fd4cfc995a6eac88e6457f))
@@ -83,7 +84,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :neckbeard: Bob - [Clojure](clojure/bob/src/bob.clj), [Elm](elm/bob/Bob.elm), [JavaScript](javascript/bob/bob.js), [Python](python/bob/bob.py)
 * :clock1030: Clock - [Go](go/clock/clock.go), [Python](python/clock/clock.py)
 * :rocket: Gigasecond - [Go](go/gigasecond/gigasecond.go), [Java](java/gigasecond/src/main/java/Gigasecond.java), [JavaScript](javascript/gigasecond/gigasecond.js), [Python](python/gigasecond/gigasecond.py)
-* :bicyclist: Hamming - [Go](go/hamming/hamming.go), [Java](java/hamming/src/main/java/Hamming.java), [JavaScript](javascript/hamming/hamming.js), [Python](python/hamming/hamming.py)
+* :bicyclist: Hamming - [Go](go/hamming/hamming.go), [Java](java/hamming/src/main/java/Hamming.java), [JavaScript](javascript/hamming/hamming.js), [Lua](lua/hamming/hamming.lua), [Python](python/hamming/hamming.py)
 * :wave: Hello World - [Clojure](clojure/hello-world/src/hello_world.clj), [Elm](elm/hello-world/HelloWorld.elm), [Go](go/hello-world/hello_world.go), [Java](java/hello-world/src/main/java/HelloWorld.java), [JavaScript](javascript/hello-world/hello-world.js), [Lua](lua/hello-world/hello-world.lua), [Python](python/hello-world/hello_world.py)
 * :abc: Isogram - [JavaScript](javascript/isogram/isogram.js), [Python](python/isogram/isogram.py)
 * :calendar: Leap - [Elm](elm/leap/Leap.elm), [Go](go/leap/leap.go), [JavaScript](javascript/leap/leap.js), [Python](python/leap/leap.py)
