@@ -2,8 +2,10 @@ local hamming = {}
 
 function hamming.compute(strandA, strandB)
   distance = 0
-  if strandA:len() ~= strandB:len() then
+
+  if #strandA ~= #strandB then
     distance = -1
+
   else
     for i = 1, #strandA do
       if strandA:sub(i,i) ~= strandB:sub(i,i) then
@@ -11,6 +13,7 @@ function hamming.compute(strandA, strandB)
       end
     end
   end
+
   return distance
 end
 
