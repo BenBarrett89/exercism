@@ -66,7 +66,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :wave: [Hello World](lua/hello-world/hello-world.lua) ([Exercism](http://exercism.io/submissions/2f333b07dcc2458b92986030379c4746))
 * :bicyclist: [Hamming](lua/hamming/hamming.lua) ([Exercism](http://exercism.io/submissions/e5948ad907d14a1c8e89193bf999ca30))
 * :house: [House](lua/house/house.lua) ([Exercism](http://exercism.io/submissions/8e3188553c0c47e9b14f63c15dcd52db))
-* :umbrella: [Raindrops](lua/raindrops/raindrops.lua) ([Exercism](http://exercism.io/submissions/1552f9cbda9f49c283517388bed3c303))
+* :umbrella: [Raindrops](lua/raindrops/raindrops.lua) ([Exercism](http://exercism.io/submissions/3fba55ca39014f13b17f66cb966612a3))
 
 ### <img src="http://exercism.io/tracks/python/icon" alt="Python" width="25" height="25"> Python
 * :wave: [Hello World](python/hello-world/hello_world.py) ([Exercism](http://exercism.io/exercises/c57b211450fd4cfc995a6eac88e6457f))

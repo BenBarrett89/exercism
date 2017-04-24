@@ -1,18 +1,19 @@
 local rainspeak = {
-  {factor = 3, speak = 'Pling'},
-  {factor = 5, speak = 'Plang'},
-  {factor = 7, speak = 'Plong'}
+  {3, 'Pling'},
+  {5, 'Plang'},
+  {7, 'Plong'}
 }
 
-function isFactorOf(number, factor)
+local function isFactorOf(number, factor)
   return number % factor == 0
 end
 
-function raindrops(number)
+local function raindrops(number)
   local response = ''
-  for index = 1, #rainspeak do
-    if isFactorOf(number, rainspeak[index].factor) then
-      response = response .. rainspeak[index].speak
+  for _, v in ipairs(rainspeak) do
+    local factor, speak = table.unpack(v)
+    if isFactorOf(number, factor) then
+      response = response .. speak
     end
   end
   if response == '' then response = response .. number end
