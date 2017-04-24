@@ -60,6 +60,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :neckbeard: [Bob](javascript/bob/bob.js) ([Exercism](http://exercism.io/exercises/9ef2cfebeea247018c5bdaa2b48d69d7))
 * :rocket: [Gigasecond](javascript/gigasecond/gigasecond.js) ([Exercism](http://exercism.io/submissions/67d7cf19efa242cf93dcb22a4a2f6ec0))
 * :abc: [Isogram](javascript/isogram/isogram.js) ([Exercism](http://exercism.io/submissions/de855b72be5b4958ad1306e9f0eb0332))
+* :beers: [Beer Song](javascript/beer-song/beer-song.js) ([Exercism](http://exercism.io/submissions/cbcd8adec44643a590c7f80371a1bf0e))
 
 ### <img src="http://exercism.io/tracks/lua/icon" alt="Python" width="25" height="25"> Lua
 * :wave: [Hello World](lua/hello-world/hello-world.lua) ([Exercism](http://exercism.io/submissions/2f333b07dcc2458b92986030379c4746))
@@ -81,7 +82,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 ## My Solutions by Problem
 * :computer: Accumulate - [Elm](elm/accumulate/Accumulate.elm)
 * :newspaper: Anagram - [Clojure](clojure/anagram/src/anagram.clj)
-* :beers: Beer Song - [Clojure](clojure/beer-song/src/beer_song.clj)
+* :beers: Beer Song - [Clojure](clojure/beer-song/src/beer_song.clj), [JavaScript](javascript/beer-song/beer-song.js)
 * :neckbeard: Bob - [Clojure](clojure/bob/src/bob.clj), [Elm](elm/bob/Bob.elm), [JavaScript](javascript/bob/bob.js), [Python](python/bob/bob.py)
 * :clock1030: Clock - [Go](go/clock/clock.go), [Python](python/clock/clock.py)
 * :rocket: Gigasecond - [Go](go/gigasecond/gigasecond.go), [Java](java/gigasecond/src/main/java/Gigasecond.java), [JavaScript](javascript/gigasecond/gigasecond.js), [Python](python/gigasecond/gigasecond.py)
