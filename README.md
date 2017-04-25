@@ -6,7 +6,6 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 
 ### Outstanding Challenges
 * :construction_worker: _Assemblers Assemble!_ Complete 5 problems in MIPS Assembly
-* :full_moon: _Bark at the Moon_ Complete 5 problems in Lua
 * :coffee: _Caffeine Addict_ Complete 5 problems in caffeine-esque languages (Ceylon, CoffeeScript, ~Java~:white_check_mark:, ~JavaScript~:white_check_mark:,  Lisp Flavored Erlang)
 * :surfer: _Hawaii 5-0_ Complete 50 problems
 * :100: _The Hundred_ Complete 100 problems
@@ -15,8 +14,9 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :scroll: _Who wrote this script?!_ Complete 5 problems in the 5 'script' languages (CoffeeScript, ECMAScript, ~JavaScript~ :white_check_mark:, PureScript, TypeScript)
 
 ### Completed Challenges
-* :beginner: _Hello World!_ Complete 6 problems in 6 languages (Clojure, Elm, Go, Java, JavaScript and Python)
+* :full_moon: _Bark at the Moon_ Complete 5 problems in Lua
 * :keycap_ten: _Ben 10_ Complete 10 problems in any language (Python)
+* :beginner: _Hello World!_ Complete 6 problems in 6 languages (Clojure, Elm, Go, Java, JavaScript and Python)
 
 ## My Solutions by Language Track
 ### <img src="http://exercism.io/tracks/clojure/icon" alt="Clojure" width="25" height="25"> Clojure
@@ -67,6 +67,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :bicyclist: [Hamming](lua/hamming/hamming.lua) ([Exercism](http://exercism.io/submissions/e5948ad907d14a1c8e89193bf999ca30))
 * :house: [House](lua/house/house.lua) ([Exercism](http://exercism.io/submissions/8e3188553c0c47e9b14f63c15dcd52db))
 * :umbrella: [Raindrops](lua/raindrops/raindrops.lua) ([Exercism](http://exercism.io/submissions/3fba55ca39014f13b17f66cb966612a3))
+* :neckbeard: [Bob](lua/bob/bob.lua), ([Exercism](http://exercism.io/submissions/197da550354c472fb8c92e493f35e09d))
 
 ### <img src="http://exercism.io/tracks/python/icon" alt="Python" width="25" height="25"> Python
 * :wave: [Hello World](python/hello-world/hello_world.py) ([Exercism](http://exercism.io/exercises/c57b211450fd4cfc995a6eac88e6457f))
@@ -84,7 +85,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :computer: Accumulate - [Elm](elm/accumulate/Accumulate.elm)
 * :newspaper: Anagram - [Clojure](clojure/anagram/src/anagram.clj)
 * :beers: Beer Song - [Clojure](clojure/beer-song/src/beer_song.clj), [JavaScript](javascript/beer-song/beer-song.js)
-* :neckbeard: Bob - [Clojure](clojure/bob/src/bob.clj), [Elm](elm/bob/Bob.elm), [JavaScript](javascript/bob/bob.js), [Python](python/bob/bob.py)
+* :neckbeard: Bob - [Clojure](clojure/bob/src/bob.clj), [Elm](elm/bob/Bob.elm), [JavaScript](javascript/bob/bob.js), [Lua](lua/bob/bob.lua), [Python](python/bob/bob.py)
 * :clock1030: Clock - [Go](go/clock/clock.go), [Python](python/clock/clock.py)
 * :rocket: Gigasecond - [Go](go/gigasecond/gigasecond.go), [Java](java/gigasecond/src/main/java/Gigasecond.java), [JavaScript](javascript/gigasecond/gigasecond.js), [Python](python/gigasecond/gigasecond.py)
 * :bicyclist: Hamming - [Go](go/hamming/hamming.go), [Java](java/hamming/src/main/java/Hamming.java), [JavaScript](javascript/hamming/hamming.js), [Lua](lua/hamming/hamming.lua), [Python](python/hamming/hamming.py)
