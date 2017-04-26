@@ -5,13 +5,13 @@ function diff.square_of_sums (number)
   for i=1,number do
     total = total + i
   end
-  return total * total
+  return total ^ 2
 end
 
 function diff.sum_of_squares (number)
   local total = 0
   for i=1,number do
-    total = total + (i * i)
+    total = total + (i ^ 2)
   end
   return total
 end

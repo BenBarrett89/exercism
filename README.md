@@ -68,7 +68,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :house: [House](lua/house/house.lua) ([Exercism](http://exercism.io/submissions/8e3188553c0c47e9b14f63c15dcd52db))
 * :umbrella: [Raindrops](lua/raindrops/raindrops.lua) ([Exercism](http://exercism.io/submissions/3fba55ca39014f13b17f66cb966612a3))
 * :neckbeard: [Bob](lua/bob/bob.lua), ([Exercism](http://exercism.io/submissions/197da550354c472fb8c92e493f35e09d))
-* :black_square: [Difference of Squares](lua/difference-of-squares/difference-of-squares.lua) ([Exercism](http://exercism.io/submissions/cdce3ce0e8724773acf4bcebdb6fd9bf))
+* :black_square: [Difference of Squares](lua/difference-of-squares/difference-of-squares.lua) ([Exercism](http://exercism.io/submissions/51560ef6bb5a43fe84e57c983dbe8568))
 
 ### <img src="http://exercism.io/tracks/python/icon" alt="Python" width="25" height="25"> Python
 * :wave: [Hello World](python/hello-world/hello_world.py) ([Exercism](http://exercism.io/exercises/c57b211450fd4cfc995a6eac88e6457f))
