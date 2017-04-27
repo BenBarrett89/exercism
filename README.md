@@ -7,7 +7,6 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 ### Outstanding Challenges
 * :construction_worker: _Assemblers Assemble!_ Complete 5 problems in MIPS Assembly
 * :coffee: _Caffeine Addict_ Complete 5 problems in caffeine-esque languages (Ceylon, CoffeeScript, ~Java~:white_check_mark:, ~JavaScript~:white_check_mark:,  Lisp Flavored Erlang)
-* :surfer: _Hawaii 5-0_ Complete 50 problems
 * :100: _The Hundred_ Complete 100 problems
 * :sheep: _In two shakes of a Lambda tail_ Complete 2 problems in functional languages with lambda logos (~Clojure~ :white_check_mark:, Haskell, Lisp Flavored Erlang, Racket, Scheme)
 * :boat: _Sail the Four Cs_ Complete 4 problems in the 4 C languages (C, C#, C++, Objective-C)
@@ -16,6 +15,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 ### Completed Challenges
 * :full_moon: _Bark at the Moon_ Complete 5 problems in Lua
 * :keycap_ten: _Ben 10_ Complete 10 problems in any language (Python)
+* :surfer: _Hawaii 5-0_ Complete 50 problems
 * :beginner: _Hello World!_ Complete 6 problems in 6 languages (Clojure, Elm, Go, Java, JavaScript and Python)
 
 ## My Solutions by Language Track
@@ -61,6 +61,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :rocket: [Gigasecond](javascript/gigasecond/gigasecond.js) ([Exercism](http://exercism.io/submissions/67d7cf19efa242cf93dcb22a4a2f6ec0))
 * :abc: [Isogram](javascript/isogram/isogram.js) ([Exercism](http://exercism.io/submissions/de855b72be5b4958ad1306e9f0eb0332))
 * :beers: [Beer Song](javascript/beer-song/beer-song.js) ([Exercism](http://exercism.io/submissions/cbcd8adec44643a590c7f80371a1bf0e))
+* :telephone_receiver: [Phone Number](javascript/phone-number/phone-number.js) ([Exercism](http://exercism.io/submissions/9e3949a54b9c4fcabd3c06bd28e13654))
 
 ### <img src="http://exercism.io/tracks/lua/icon" alt="Python" width="25" height="25"> Lua
 * :wave: [Hello World](lua/hello-world/hello-world.lua) ([Exercism](http://exercism.io/submissions/2f333b07dcc2458b92986030379c4746))
@@ -96,6 +97,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :abc: Isogram - [JavaScript](javascript/isogram/isogram.js), [Python](python/isogram/isogram.py)
 * :calendar: Leap - [Elm](elm/leap/Leap.elm), [Go](go/leap/leap.go), [JavaScript](javascript/leap/leap.js), [Python](python/leap/leap.py)
 * :notebook: Pangram - [Elm](elm/pangram/Pangram.elm), [Java](java/pangram/src/main/java/PangramChecker.java), [JavaScript](javascript/pangram/pangram.js), [Python](python/pangram/pangram.py)
+* :telephone_receiver: Phone Number - [JavaScript](javascript/phone-number/phone-number.js)
 * :umbrella: Raindrops - [Elm](elm/raindrops/Raindrops.elm), [Go](go/raindrops/raindrops.go), [Lua](lua/raindrops/raindrops.lua)
 * :microscope: Rna Transcription - [Clojure](clojure/rna-transcription/src/rna_transcription.clj), [Java](java/rna-transcription/src/main/java/RnaTranscription.java), [JavaScript](javascript/rna-transcription/rna-transcription.js), [Python](python/rna-transcription/rna_transcription.py)
 * :space_invader: Space Age - [Java](java/gigasecond/src/main/java/SpaceAge.java)
