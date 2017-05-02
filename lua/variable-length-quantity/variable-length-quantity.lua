@@ -1,3 +1,5 @@
+-- This cannot be the best way to do this... basically tried to do the way
+-- of the example at https://en.wikipedia.org/wiki/Variable-length_quantity#Examples
 local vlq = {}
 
 local function numberToBinary(number)
@@ -39,10 +41,11 @@ local function splitToGroups(binary)
   local group = {}
   for i, bit in ipairs(binary) do
     table.insert(group, bit)
-    if (i % 8 == 0) then
+    if i % 7 == 0 or i == #binary then
+      if (#group < 7) then group = padToSeven(group) end
       if (#groups == 0) then table.insert(group, 0)
       else table.insert(group, 1) end
-      table.insert(groups, group)
+      table.insert(groups, binaryToNumber(group))
       group = {}
     end
   end
@@ -53,9 +56,11 @@ function vlq.decode(bytes)
   local totals = {}
   local total = {}
   local pushToTotals = false
-  for _, byte in ipairs(bytes) do
+  for i, byte in ipairs(bytes) do
     local binary = numberToBinary(byte)
-    if #binary == 8 then table.remove(binary, #binary)
+    if #binary == 8 then
+      if i == #bytes and binary[#binary] ~= 0 then error('incomplete byte sequence') end
+      table.remove(binary, #binary)
     else
       binary = padToSeven(binary)
       pushToTotals = true
@@ -75,6 +80,9 @@ function vlq.encode(bytes)
   for _, byte in ipairs(bytes) do
     local binary = numberToBinary(byte)
     local groups = splitToGroups(binary)
+    for i=1, #groups do
+      table.insert(values, groups[#groups + 1 - i])
+    end
   end
   return values
 end
