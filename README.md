@@ -70,6 +70,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :umbrella: [Raindrops](lua/raindrops/raindrops.lua) ([Exercism](http://exercism.io/submissions/3fba55ca39014f13b17f66cb966612a3))
 * :neckbeard: [Bob](lua/bob/bob.lua), ([Exercism](http://exercism.io/submissions/197da550354c472fb8c92e493f35e09d))
 * :black_medium_square: [Difference of Squares](lua/difference-of-squares/difference-of-squares.lua) ([Exercism](http://exercism.io/submissions/51560ef6bb5a43fe84e57c983dbe8568))
+* :straight_ruler: [Variable Length Quantity](lua/variable-length-quantity.lua) ([Exercism](http://exercism.io/submissions/dfa55e189811481197e4e4dff927ea65))
 
 ### <img src="http://exercism.io/tracks/python/icon" alt="Python" width="25" height="25"> Python
 * :wave: [Hello World](python/hello-world/hello_world.py) ([Exercism](http://exercism.io/exercises/c57b211450fd4cfc995a6eac88e6457f))
@@ -101,4 +102,5 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :umbrella: Raindrops - [Elm](elm/raindrops/Raindrops.elm), [Go](go/raindrops/raindrops.go), [Lua](lua/raindrops/raindrops.lua)
 * :microscope: Rna Transcription - [Clojure](clojure/rna-transcription/src/rna_transcription.clj), [Java](java/rna-transcription/src/main/java/RnaTranscription.java), [JavaScript](javascript/rna-transcription/rna-transcription.js), [Python](python/rna-transcription/rna_transcription.py)
 * :space_invader: Space Age - [Java](java/gigasecond/src/main/java/SpaceAge.java)
+* :straight_ruler: Variable Length Quantity - [Lua](lua/variable-length-quantity.lua)
 * :notebook_with_decorative_cover: Word Count - [Clojure](clojure/word-count/src/word_count.clj), [Python](python/word-count/word_count.py)
