@@ -42,6 +42,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :rocket: [Gigasecond](go/gigasecond/gigasecond.go) ([Exercism](http://exercism.io/submissions/b18d906547b9464884811af26ffedb2d))
 * :bicyclist: [Hamming](go/hamming/hamming.go) ([Exercism](http://exercism.io/submissions/383d77361eba4fbc9c33b3595d20c814))
 * :umbrella: [Raindrops](go/raindrops/raindrops.go) ([Exercism](http://exercism.io/submissions/b9db2546fb584e60a6c4e7c620ad8099))
+* :computer: [Accumulate](go/accumulate/accumulate.go) ([Exercism](http://exercism.io/submissions/edb13f84742e4508a48133e194a2d139))
 
 ### <img src="http://exercism.io/tracks/java/icon" alt="Java" width="25" height="25"> Java
 * :wave: [Hello World](java/hello-world/src/main/java/HelloWorld.java) ([Exercism](http://exercism.io/exercises/79f7f96b14c54c77bf30865227d6cdcc))
@@ -85,7 +86,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :neckbeard: [Bob](python/bob/bob.py) ([Exercism](http://exercism.io/submissions/2d53ed77583f4210bc8848c6c630386f))
 
 ## My Solutions by Problem
-* :computer: Accumulate - [Elm](elm/accumulate/Accumulate.elm)
+* :computer: Accumulate - [Elm](elm/accumulate/Accumulate.elm), [Go](go/accumulate/accumulate.go)
 * :newspaper: Anagram - [Clojure](clojure/anagram/src/anagram.clj)
 * :beers: Beer Song - [Clojure](clojure/beer-song/src/beer_song.clj), [JavaScript](javascript/beer-song/beer-song.js)
 * :neckbeard: Bob - [Clojure](clojure/bob/src/bob.clj), [Elm](elm/bob/Bob.elm), [JavaScript](javascript/bob/bob.js), [Lua](lua/bob/bob.lua), [Python](python/bob/bob.py)
