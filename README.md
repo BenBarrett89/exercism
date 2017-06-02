@@ -88,7 +88,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :neckbeard: [Bob](python/bob/bob.py) ([Exercism](http://exercism.io/submissions/2d53ed77583f4210bc8848c6c630386f))
 
 ### <img src="http://exercism.io/tracks/rust/icon" alt="Rust" width="25" height="25"> Rust
-* :wave: [Hello World](rust/hello-world/lib.rs) ([Exercism]())
+* :wave: [Hello World](rust/hello-world/lib.rs) ([Exercism](http://exercism.io/submissions/57f7563d4d4941be90cdbaa496b08942))
 
 ## My Solutions by Problem
 * :computer: Accumulate - [Elm](elm/accumulate/Accumulate.elm), [Go](go/accumulate/accumulate.go)
