@@ -87,6 +87,9 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :rocket: [Gigasecond](python/gigasecond/gigasecond.py) ([Exercism](http://exercism.io/submissions/131d657f699641fcaa3e1ec2c948882a))
 * :neckbeard: [Bob](python/bob/bob.py) ([Exercism](http://exercism.io/submissions/2d53ed77583f4210bc8848c6c630386f))
 
+### <img src="http://exercism.io/tracks/rust/icon" alt="Rust" width="25" height="25"> Rust
+* :wave: [Hello World](rust/hello-world/lib.rs) ([Exercism](http://exercism.io/submissions/57f7563d4d4941be90cdbaa496b08942))
+
 ## My Solutions by Problem
 * :computer: Accumulate - [Elm](elm/accumulate/Accumulate.elm), [Go](go/accumulate/accumulate.go)
 * :ng: Acronym - [Go](go/acronym/acronym.go)
@@ -97,7 +100,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :black_medium_square: Difference of Squares - [Lua](lua/difference-of-squares/difference-of-squares.lua)
 * :rocket: Gigasecond - [Go](go/gigasecond/gigasecond.go), [Java](java/gigasecond/src/main/java/Gigasecond.java), [JavaScript](javascript/gigasecond/gigasecond.js), [Python](python/gigasecond/gigasecond.py)
 * :bicyclist: Hamming - [Go](go/hamming/hamming.go), [Java](java/hamming/src/main/java/Hamming.java), [JavaScript](javascript/hamming/hamming.js), [Lua](lua/hamming/hamming.lua), [Python](python/hamming/hamming.py)
-* :wave: Hello World - [Clojure](clojure/hello-world/src/hello_world.clj), [Elm](elm/hello-world/HelloWorld.elm), [Go](go/hello-world/hello_world.go), [Java](java/hello-world/src/main/java/HelloWorld.java), [JavaScript](javascript/hello-world/hello-world.js), [Lua](lua/hello-world/hello-world.lua), [Python](python/hello-world/hello_world.py)
+* :wave: Hello World - [Clojure](clojure/hello-world/src/hello_world.clj), [Elm](elm/hello-world/HelloWorld.elm), [Go](go/hello-world/hello_world.go), [Java](java/hello-world/src/main/java/HelloWorld.java), [JavaScript](javascript/hello-world/hello-world.js), [Lua](lua/hello-world/hello-world.lua), [Python](python/hello-world/hello_world.py), [Rust](rust/hello-world/lib.rs)
 * :house: House - [Lua](lua/house/house.lua)
 * :abc: Isogram - [JavaScript](javascript/isogram/isogram.js), [Python](python/isogram/isogram.py)
 * :calendar: Leap - [Elm](elm/leap/Leap.elm), [Go](go/leap/leap.go), [JavaScript](javascript/leap/leap.js), [Python](python/leap/leap.py)
@@ -145,3 +148,9 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 ### <img src="http://exercism.io/tracks/python/icon" alt="Python" width="25" height="25"> Python
 * [Python in 10 Minutes](https://www.stavros.io/tutorials/python/)
 * [Python 2 Documentation](https://docs.python.org/2/index.html)
+
+### <img src="http://exercism.io/tracks/rust/icon" alt="Rust" width="25" height="25"> Rust
+* [Rust Documentation Top](https://www.rust-lang.org/en-US/documentation.html)
+* [Rust Standard Library](https://doc.rust-lang.org/std/)
+* [The Rust Programming Language Book](https://doc.rust-lang.org/book/README.html)
+* [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
