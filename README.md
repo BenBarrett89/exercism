@@ -89,7 +89,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 
 ### <img src="http://exercism.io/tracks/rust/icon" alt="Rust" width="25" height="25"> Rust
 * :wave: [Hello World](rust/hello-world/src/lib.rs) ([Exercism](http://exercism.io/submissions/57f7563d4d4941be90cdbaa496b08942))
-* :rocket: [Gigasecond](rusr/gigasecond/src/lib.rs)
+* :rocket: [Gigasecond](rust/gigasecond/src/lib.rs)
 ([Exercism](http://exercism.io/submissions/c51c5779c2b04fb9af6a404967eb9d95))
 
 ## My Solutions by Problem
