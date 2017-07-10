@@ -45,6 +45,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :computer: [Accumulate](go/accumulate/accumulate.go) ([Exercism](http://exercism.io/submissions/edb13f84742e4508a48133e194a2d139))
 * :ng: [Acronym](go/acronym/acronym.go) ([Exercism](http://exercism.io/submissions/30aa1561f19e4916bad6f7b5e3fcfbca
 ))
+* :notebook: [Pangram](go/pangram/pangram.go) ([Exercism]())
 
 ### <img src="http://exercism.io/tracks/java/icon" alt="Java" width="25" height="25"> Java
 * :wave: [Hello World](java/hello-world/src/main/java/HelloWorld.java) ([Exercism](http://exercism.io/exercises/79f7f96b14c54c77bf30865227d6cdcc))
@@ -106,7 +107,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :house: House - [Lua](lua/house/house.lua)
 * :abc: Isogram - [JavaScript](javascript/isogram/isogram.js), [Python](python/isogram/isogram.py)
 * :calendar: Leap - [Elm](elm/leap/Leap.elm), [Go](go/leap/leap.go), [JavaScript](javascript/leap/leap.js), [Python](python/leap/leap.py)
-* :notebook: Pangram - [Elm](elm/pangram/Pangram.elm), [Java](java/pangram/src/main/java/PangramChecker.java), [JavaScript](javascript/pangram/pangram.js), [Python](python/pangram/pangram.py)
+* :notebook: Pangram - [Elm](elm/pangram/Pangram.elm), [Go](go/pangram/pangram.go), [Java](java/pangram/src/main/java/PangramChecker.java), [JavaScript](javascript/pangram/pangram.js), [Python](python/pangram/pangram.py)
 * :telephone_receiver: Phone Number - [JavaScript](javascript/phone-number/phone-number.js)
 * :umbrella: Raindrops - [Elm](elm/raindrops/Raindrops.elm), [Go](go/raindrops/raindrops.go), [Lua](lua/raindrops/raindrops.lua)
 * :microscope: Rna Transcription - [Clojure](clojure/rna-transcription/src/rna_transcription.clj), [Java](java/rna-transcription/src/main/java/RnaTranscription.java), [JavaScript](javascript/rna-transcription/rna-transcription.js), [Python](python/rna-transcription/rna_transcription.py)
