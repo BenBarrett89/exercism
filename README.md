@@ -21,6 +21,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 ## My Solutions by Language Track
 ### <img src="http://exercism.io/tracks/csharp/icon" alt="C sharp" width="25" height="25"> C#
 * :wave: [Hello World](csharp/hello-world/HelloWorld.cs) ([Exercism](http://exercism.io/submissions/013756016e674a40988defe86a57068e))
+* :neckbeard: [Bob](csharp/bob/Bob.cs) ([Exercism](http://exercism.io/submissions/fe947cf13a174a5685dcb10053f2c2a4))
 
 ### <img src="http://exercism.io/tracks/clojure/icon" alt="Clojure" width="25" height="25"> Clojure
 * :wave: [Hello World](clojure/hello-world/src/hello_world.clj) ([Exercism](http://exercism.io/exercises/cbe604c4c8df412199c841b99ebb8f57))
