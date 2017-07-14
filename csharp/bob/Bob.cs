@@ -30,7 +30,7 @@ public static class Bob
 
     private static bool IsSilence(string statement)
     {
-      return statement == "";
+      return string.IsNullOrWhiteSpace(statement);
     }
 
     private static bool IsYelling(string statement)
