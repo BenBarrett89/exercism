@@ -19,8 +19,8 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :beginner: _Hello World!_ Complete 6 problems in 6 languages (Clojure, Elm, Go, Java, JavaScript and Python)
 
 ## My Solutions by Language Track
-### <img src="http://exercism.io/tracks/clojure/icon" alt="C sharp" width="25" height="25"> C#
-* :wave: [Hello World](csharp/hello-world/HelloWorld.cs) ([Exercism]())
+### <img src="http://exercism.io/tracks/csharp/icon" alt="C sharp" width="25" height="25"> C#
+* :wave: [Hello World](csharp/hello-world/HelloWorld.cs) ([Exercism](http://exercism.io/submissions/013756016e674a40988defe86a57068e))
 
 ### <img src="http://exercism.io/tracks/clojure/icon" alt="Clojure" width="25" height="25"> Clojure
 * :wave: [Hello World](clojure/hello-world/src/hello_world.clj) ([Exercism](http://exercism.io/exercises/cbe604c4c8df412199c841b99ebb8f57))
