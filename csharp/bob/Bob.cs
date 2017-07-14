@@ -10,14 +10,15 @@ public static class Bob
     public static string Response(string statement)
     {
         string response = DEFAULT_RESPONSE;
-        if (IsQuestion(statement)) {
+        string trimmedStatement = statement.Trim();
+        if (IsYelling(trimmedStatement)) {
+          response = YELLING_RESPONSE;
+        }
+        else if (IsQuestion(trimmedStatement)) {
           response = QUESTION_RESPONSE;
         }
-        else if (IsSilence(statement)) {
+        else if (IsSilence(trimmedStatement)) {
           response = SILENCE_RESPONSE;
-        }
-        else if (IsYelling(statement)) {
-          response = YELLING_RESPONSE;
         }
         return response;
     }
@@ -29,11 +30,11 @@ public static class Bob
 
     private static bool IsSilence(string statement)
     {
-      return false;
+      return statement == "";
     }
 
     private static bool IsYelling(string statement)
     {
-      return statement.ToUpper() == statement;
+      return statement.ToUpper() == statement && statement.ToLower() != statement;
     }
 }
