@@ -119,43 +119,43 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :notebook_with_decorative_cover: Word Count - [Clojure](clojure/word-count/src/word_count.clj), [Python](python/word-count/word_count.py)
 
 ## My Language References
-### <img src="http://exercism.io/tracks/clojure/icon" alt="Clojure" width="25" height="25"> Clojure
+### <img src="https://assets.exercism.io/tracks/clojure-hex-turquoise.png" alt="Clojure" width="25" height="25"> Clojure
 * [Leiningen Tutorial](https://github.com/technomancy/leiningen/blob/master/doc/TUTORIAL.md)
 * [Do Things: A Clojure Crash Course](http://www.braveclojure.com/do-things/)
 * [Clojure's Core Library](https://clojuredocs.org/core-library)
 * [Clojure Quick Reference](https://clojuredocs.org/quickref)
 * [Clojars](https://clojars.org/) _(not for Exercism)_
 
-### <img src="http://exercism.io/tracks/elm/icon" alt="Elm" width="25" height="25"> Elm
+### <img src="https://assets.exercism.io/tracks/elm-hex-turquoise.png" alt="Elm" width="25" height="25"> Elm
 * [Elm Docs Top](http://elm-lang.org/docs)
 * [Elm Examples](http://elm-lang.org/examples)
 * [Elm Core Libraries](http://package.elm-lang.org/packages/elm-lang/core/latest)
 * [Elm Syntax](http://elm-lang.org/docs/syntax)
 
-### <img src="http://exercism.io/tracks/go/icon" alt="Go" width="25" height="25"> Go
+### <img src="https://assets.exercism.io/tracks/go-hex-turquoise.png" alt="Go" width="25" height="25"> Go
 * [Effective Go](https://golang.org/doc/effective_go.html)
 * [A Tour of Go](https://tour.golang.org/list)
 * [Go by Example](https://gobyexample.com/)
 * [builtin Package Reference](https://golang.org/pkg/builtin/)
 * [Go Packages](https://golang.org/pkg/)
 
-### <img src="http://exercism.io/tracks/java/icon" alt="Java" width="25" height="25"> Java
+### <img src="https://assets.exercism.io/tracks/java-hex-turquoise.png" alt="Java" width="25" height="25"> Java
 * [Java API Specification](https://docs.oracle.com/javase/7/docs/api/overview-summary.html)
 
-### <img src="http://exercism.io/tracks/javascript/icon" alt="JavaScript" width="25" height="25"> JavaScript
+### <img src="https://assets.exercism.io/tracks/javascript-hex-turquoise.png" alt="JavaScript" width="25" height="25"> JavaScript
 * [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 * [w3schools JavaScript Reference](https://www.w3schools.com/jsref/)
 
-### <img src="http://exercism.io/tracks/lua/icon" alt="Python" width="25" height="25"> Lua
+### <img src="https://assets.exercism.io/tracks/lua-hex-turquoise.png" alt="Python" width="25" height="25"> Lua
 * [Programming in Lua](https://www.lua.org/pil/contents.html)
 * [Lua Reference Manual](https://www.lua.org/manual/5.1/)
 * [Lua Users Wiki Directory](http://lua-users.org/wiki/LuaDirectory)
 
-### <img src="http://exercism.io/tracks/python/icon" alt="Python" width="25" height="25"> Python
+### <img src="https://assets.exercism.io/tracks/python-hex-turquoise.png" alt="Python" width="25" height="25"> Python
 * [Python in 10 Minutes](https://www.stavros.io/tutorials/python/)
 * [Python 2 Documentation](https://docs.python.org/2/index.html)
 
-### <img src="http://exercism.io/tracks/rust/icon" alt="Rust" width="25" height="25"> Rust
+### <img src="https://assets.exercism.io/tracks/rust-hex-turquoise.png" alt="Rust" width="25" height="25"> Rust
 * [Rust Documentation Top](https://www.rust-lang.org/en-US/documentation.html)
 * [Rust Standard Library](https://doc.rust-lang.org/std/)
 * [Rust Docs](https://docs.rs/)
