@@ -19,11 +19,11 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :beginner: _Hello World!_ Complete 6 problems in 6 languages (Clojure, Elm, Go, Java, JavaScript and Python)
 
 ## My Solutions by Language Track
-### <img src="http://exercism.io/tracks/csharp/icon" alt="C sharp" width="25" height="25"> C#
+### <img src="https://assets.exercism.io/tracks/csharp-hex-turquoise.png" alt="C sharp" width="25" height="25"> C#
 * :wave: [Hello World](csharp/hello-world/HelloWorld.cs) ([Exercism](http://exercism.io/submissions/013756016e674a40988defe86a57068e))
 * :neckbeard: [Bob](csharp/bob/Bob.cs) ([Exercism](http://exercism.io/submissions/fe947cf13a174a5685dcb10053f2c2a4))
 
-### <img src="http://exercism.io/tracks/clojure/icon" alt="Clojure" width="25" height="25"> Clojure
+### <img src="https://assets.exercism.io/tracks/clojure-hex-turquoise.png" alt="Clojure" width="25" height="25"> Clojure
 * :wave: [Hello World](clojure/hello-world/src/hello_world.clj) ([Exercism](http://exercism.io/exercises/cbe604c4c8df412199c841b99ebb8f57))
 * :neckbeard: [Bob](clojure/bob/src/bob.clj) ([Exercism](http://exercism.io/exercises/95763522a7444d5eb85e44a7b8024d47))
 * :microscope: [Rna Transcription](clojure/rna-transcription/src/rna_transcription.clj) ([Exercism](http://exercism.io/exercises/9e5b7cda40a64706b3955010656e9fd5))
@@ -31,7 +31,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :newspaper: [Anagram](clojure/anagram/src/anagram.clj) ([Exercism](http://exercism.io/exercises/27ac515367854e1288ce89478a953fa6))
 * :beers: [Beer Song](clojure/beer-song/src/beer_song.clj) ([Exercism](http://exercism.io/exercises/dd13bd4ce5c2441081707a16cab9a50a))
 
-### <img src="http://exercism.io/tracks/elm/icon" alt="Elm" width="25" height="25"> Elm
+### <img src="https://assets.exercism.io/tracks/elm-hex-turquoise.png" alt="Elm" width="25" height="25"> Elm
 * :wave: [Hello World](elm/hello-world/HelloWorld.elm) ([Exercism](http://exercism.io/exercises/3b16987ed0534b03806bab79a63852ad))
 * :neckbeard: [Bob](elm/bob/Bob.elm) ([Exercism](http://exercism.io/exercises/c466ee95a2884161930a76e4af22336d))
 * :calendar: [Leap](elm/leap/Leap.elm) ([Exercism](http://exercism.io/exercises/71bb2c4e44d04e1caacf0314393b89ff))
@@ -39,7 +39,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :notebook: [Pangram](elm/pangram/Pangram.elm) ([Exercism](http://exercism.io/exercises/31665d4a97244735b15cfda757c634a0))
 * :computer: [Accumulate](elm/accumulate/Accumulate.elm) ([Exercism](http://exercism.io/exercises/8298f3c8727c468cafc75a64caa0e08d))
 
-### <img src="http://exercism.io/tracks/go/icon" alt="Go" width="25" height="25"> Go
+### <img src="https://assets.exercism.io/tracks/go-hex-turquoise.png" alt="Go" width="25" height="25"> Go
 * :wave: [Hello World](go/hello-world/hello_world.go) ([Exercism](http://exercism.io/submissions/6601b86e324748d0bd92beb9ff864e52))
 * :calendar: [Leap](go/leap/leap.go) ([Exercism](http://exercism.io/submissions/d2c9306d9e4d4cf1b1731878715aece0))
 * :clock1030: [Clock](go/clock/clock.go) ([Exercism](http://exercism.io/submissions/cb7a82417a7a47e2b09907b80ec55ba7))
@@ -50,7 +50,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :ng: [Acronym](go/acronym/acronym.go) ([Exercism](http://exercism.io/submissions/30aa1561f19e4916bad6f7b5e3fcfbca
 ))
 
-### <img src="http://exercism.io/tracks/java/icon" alt="Java" width="25" height="25"> Java
+### <img src="https://assets.exercism.io/tracks/java-hex-turquoise.png" alt="Java" width="25" height="25"> Java
 * :wave: [Hello World](java/hello-world/src/main/java/HelloWorld.java) ([Exercism](http://exercism.io/exercises/79f7f96b14c54c77bf30865227d6cdcc))
 * :microscope: [Rna Transcription](java/rna-transcription/src/main/java/RnaTranscription.java) ([Exercism](http://exercism.io/exercises/f4d4e13412b546fb9cdcf74dccee1525))
 * :notebook: [Pangram](java/pangram/src/main/java/PangramChecker.java) ([Exercism](http://exercism.io/exercises/1b1ab0294c224720b1a60346ad6085bf))
@@ -58,7 +58,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :rocket: [Gigasecond](java/gigasecond/src/main/java/Gigasecond.java) ([Exercism](http://exercism.io/exercises/e04df0e5236a436d948ee61defab9f50))
 * :space_invader: [Space Age](java/space-age/src/main/java/SpaceAge.java) ([Exercism](http://exercism.io/submissions/797ce0ed2d4e4a3f8bc8245f4f201cdb))
 
-### <img src="http://exercism.io/tracks/javascript/icon" alt="JavaScript" width="25" height="25"> JavaScript
+### <img src="https://assets.exercism.io/tracks/javascript-hex-turquoise.png" alt="JavaScript" width="25" height="25"> JavaScript
 * :wave: [Hello World](javascript/hello-world/hello-world.js) ([Exercism](http://exercism.io/exercises/de474fb30de443e6a9d202aea8c94e1c))
 * :calendar: [Leap](javascript/leap/leap.js) ([Exercism](http://exercism.io/exercises/4332c588afd344eaa8dabc08be4fd680))
 * :bicyclist: [Hamming](javascript/hamming/hamming.js) ([Exercism](http://exercism.io/exercises/4a3712a13679495799a5b996ead037a2))
@@ -70,7 +70,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :beers: [Beer Song](javascript/beer-song/beer-song.js) ([Exercism](http://exercism.io/submissions/cbcd8adec44643a590c7f80371a1bf0e))
 * :telephone_receiver: [Phone Number](javascript/phone-number/phone-number.js) ([Exercism](http://exercism.io/submissions/9e3949a54b9c4fcabd3c06bd28e13654))
 
-### <img src="http://exercism.io/tracks/lua/icon" alt="Python" width="25" height="25"> Lua
+### <img src="https://assets.exercism.io/tracks/lua-hex-turquoise.png" alt="Lua" width="25" height="25"> Lua
 * :wave: [Hello World](lua/hello-world/hello-world.lua) ([Exercism](http://exercism.io/submissions/2f333b07dcc2458b92986030379c4746))
 * :bicyclist: [Hamming](lua/hamming/hamming.lua) ([Exercism](http://exercism.io/submissions/e5948ad907d14a1c8e89193bf999ca30))
 * :house: [House](lua/house/house.lua) ([Exercism](http://exercism.io/submissions/8e3188553c0c47e9b14f63c15dcd52db))
@@ -79,7 +79,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :black_medium_square: [Difference of Squares](lua/difference-of-squares/difference-of-squares.lua) ([Exercism](http://exercism.io/submissions/51560ef6bb5a43fe84e57c983dbe8568))
 * :straight_ruler: [Variable Length Quantity](lua/variable-length-quantity/variable-length-quantity.lua) ([Exercism](http://exercism.io/submissions/dfa55e189811481197e4e4dff927ea65))
 
-### <img src="http://exercism.io/tracks/python/icon" alt="Python" width="25" height="25"> Python
+### <img src="https://assets.exercism.io/tracks/python-hex-turquoise.png" alt="Python" width="25" height="25"> Python
 * :wave: [Hello World](python/hello-world/hello_world.py) ([Exercism](http://exercism.io/exercises/c57b211450fd4cfc995a6eac88e6457f))
 * :calendar: [Leap](python/leap/leap.py) ([Exercism](http://exercism.io/exercises/8b825ac53c3748f8955f4c857487250e))
 * :clock1030: [Clock](python/clock/clock.py) ([Exercism](http://exercism.io/exercises/08602384a12a4e67bf9a323eb4fc1b3c))
@@ -91,7 +91,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :rocket: [Gigasecond](python/gigasecond/gigasecond.py) ([Exercism](http://exercism.io/submissions/131d657f699641fcaa3e1ec2c948882a))
 * :neckbeard: [Bob](python/bob/bob.py) ([Exercism](http://exercism.io/submissions/2d53ed77583f4210bc8848c6c630386f))
 
-### <img src="http://exercism.io/tracks/rust/icon" alt="Rust" width="25" height="25"> Rust
+### <img src="https://assets.exercism.io/tracks/rust-hex-turquoise.png" alt="Rust" width="25" height="25"> Rust
 * :wave: [Hello World](rust/hello-world/src/lib.rs) ([Exercism](http://exercism.io/submissions/57f7563d4d4941be90cdbaa496b08942))
 * :rocket: [Gigasecond](rust/gigasecond/src/lib.rs)
 ([Exercism](http://exercism.io/submissions/e25c3c4c1a9846f7824ce62e7a08dcdb))
