@@ -7,5 +7,5 @@ EXERCISM_TOKEN=${1}
 
 docker build \
   --build-arg EXERCISM_TOKEN=${EXERCISM_TOKEN} \
-  -t ${IMAGE_TAG} \
+  --tag ${IMAGE_TAG} \
   ${SCRIPT_DIRECTORY}

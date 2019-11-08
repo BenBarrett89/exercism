@@ -17,4 +17,7 @@ RUN tar \
   && mv exercism /bin \
   && rm exercism-3.0.13-linux-x86_64.tar.gz
 
-RUN exercism configure --token=${EXERCISM_TOKEN} --no-verify
+RUN exercism configure \
+  --token=${EXERCISM_TOKEN} \
+  --workspace=/ \
+  --no-verify
