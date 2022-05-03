@@ -1,6 +1,23 @@
 # exercism
 Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 
+## Setting Up
+
+- Install the CLI
+- Set the token
+  ```terminal
+  exercism configure --token=token-value
+  ```
+- Set the workspace (run from root `exercism` directory)
+  ```terminal
+  exercism configure --workspace $(pwd)
+  ```
+- Download exercises!
+  ```terminal
+  exercism download --exercise=exercise-name --track=language
+  ```
+- Submit exercise solutions
+
 ## Personal Challenges
 > Because why not gamificate Exercism?
 
@@ -90,6 +107,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :notebook_with_decorative_cover: [Word Count](python/word-count/word_count.py) ([Exercism](http://exercism.io/submissions/3ab8cc77ecb148ab9152e8bd8a8473a8))
 * :rocket: [Gigasecond](python/gigasecond/gigasecond.py) ([Exercism](http://exercism.io/submissions/131d657f699641fcaa3e1ec2c948882a))
 * :neckbeard: [Bob](python/bob/bob.py) ([Exercism](http://exercism.io/submissions/2d53ed77583f4210bc8848c6c630386f))
+* :spaghetti: [Guido's Gorgeous Lasagna](python/guidos-gorgeous-lasagna/lasagna.py) ([Exercism](https://exercism.org/tracks/python/exercises/guidos-gorgeous-lasagna/solutions/BenBarrett89))
 
 ### <img src="https://assets.exercism.io/tracks/rust-hex-turquoise.png" alt="Rust" width="25" height="25"> Rust
 * :wave: [Hello World](rust/hello-world/src/lib.rs) ([Exercism](http://exercism.io/submissions/57f7563d4d4941be90cdbaa496b08942))
@@ -105,6 +123,7 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 * :clock1030: Clock - [Go](go/clock/clock.go), [Python](python/clock/clock.py)
 * :black_medium_square: Difference of Squares - [Lua](lua/difference-of-squares/difference-of-squares.lua)
 * :rocket: Gigasecond - [Go](go/gigasecond/gigasecond.go), [Java](java/gigasecond/src/main/java/Gigasecond.java), [JavaScript](javascript/gigasecond/gigasecond.js), [Python](python/gigasecond/gigasecond.py), [Rust](rust/gigasecond/src/lib.rs)
+* :spaghetti: Guido's Gorgeous Lasagna - [Python](python/guidos-gorgeous-lasagna/lasagna.py)
 * :bicyclist: Hamming - [Go](go/hamming/hamming.go), [Java](java/hamming/src/main/java/Hamming.java), [JavaScript](javascript/hamming/hamming.js), [Lua](lua/hamming/hamming.lua), [Python](python/hamming/hamming.py)
 * :wave: Hello World - [Clojure](clojure/hello-world/src/hello_world.clj), [Elm](elm/hello-world/HelloWorld.elm), [Go](go/hello-world/hello_world.go), [Java](java/hello-world/src/main/java/HelloWorld.java), [JavaScript](javascript/hello-world/hello-world.js), [Lua](lua/hello-world/hello-world.lua), [Python](python/hello-world/hello_world.py), [Rust](rust/hello-world/src/lib.rs)
 * :house: House - [Lua](lua/house/house.lua)
