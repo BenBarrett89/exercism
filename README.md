@@ -74,6 +74,10 @@ Exercism git tracking - [my exercism profile](http://exercism.io/BenBarrett89)
 - :notebook: [Pangram](elm/pangram/Pangram.elm) ([Exercism](http://exercism.io/exercises/31665d4a97244735b15cfda757c634a0))
 - :computer: [Accumulate](elm/accumulate/Accumulate.elm) ([Exercism](http://exercism.io/exercises/8298f3c8727c468cafc75a64caa0e08d))
 
+### Elixir Solutions
+
+- :wave: [Hello World](elixir/hello-world/lib/hello_world.ex) ([Exercism]())
+
 ### Go Solutions
 
 - :wave: [Hello World](go/hello-world/hello_world.go) ([Exercism](http://exercism.io/submissions/6601b86e324748d0bd92beb9ff864e52))
